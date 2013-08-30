@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+An upstream remote i usually used in forking for pulling new changes and updates from the original owners repository back to your local clone repository.  
