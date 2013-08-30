@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is like a second dimension of your working repository. Branches are used when adding new features or doing experiments. Your new features and experiments are happening all in the second dimension and when done you can choose to apply those changes to the master or delete them. 
