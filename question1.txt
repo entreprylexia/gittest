@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+
+Git clone is used for collaboration or simply when you want to get a copy of a project so you can look at it and use the code further. Git clone will copy the entire history of that specific project to you locally and will give you a working directory of the main branch of that project so you can start editing. 
